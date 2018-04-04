@@ -1,0 +1,2 @@
+# DoublyLinkedList
+A doubly linked list project I took on for my CS II for majors class. We had to create a doubly linked list and then sort that list using a sort algorithm of our choice (I used mergesort). I particularly liked this project because it gave me an in-depth understanding of sorting algorithms, and my implementation of mergesort was beautiful as all I did was move a few pointers around.
